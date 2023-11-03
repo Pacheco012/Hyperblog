@@ -1,7 +1,12 @@
 Esta es mi histiria, Me llamo Tomas y tengo 23 años
 
+Experimento 1
+
+experimento2
+
 master 1
 
+master 2 
 Mañana nos enfocaremos en su vida profesional 
 
 
